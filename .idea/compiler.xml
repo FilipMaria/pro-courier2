@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="core-model" />
+        <module name="example_reflection" />
+        <module name="h2-service" />
+        <module name="orders-service" />
+        <module name="orders-service-client" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="core-model" target="11" />
+      <module name="example_reflection" target="11" />
+      <module name="h2-service" target="11" />
+      <module name="orders-service" target="11" />
+      <module name="orders-service-client" target="11" />
+      <module name="procourier-parent" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

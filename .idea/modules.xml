@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pro-courier-master/core-model/core-model.iml" filepath="$PROJECT_DIR$/pro-courier-master/core-model/core-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro-courier-master/example_reflection/example_reflection.iml" filepath="$PROJECT_DIR$/pro-courier-master/example_reflection/example_reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro-courier-master/h2-service/h2-service.iml" filepath="$PROJECT_DIR$/pro-courier-master/h2-service/h2-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro-courier-master/orders-service/orders-service.iml" filepath="$PROJECT_DIR$/pro-courier-master/orders-service/orders-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro-courier-master/orders-service-client/orders-service-client.iml" filepath="$PROJECT_DIR$/pro-courier-master/orders-service-client/orders-service-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pro-courier-master (4).iml" filepath="$PROJECT_DIR$/.idea/pro-courier-master (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro-courier-master/procourier-parent.iml" filepath="$PROJECT_DIR$/pro-courier-master/procourier-parent.iml" />
+    </modules>
+  </component>
+</project>
